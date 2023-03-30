@@ -16,10 +16,10 @@ def load_lottieurl(url):
 lottie_tekening = load_lottieurl("https://assets1.lottiefiles.com/packages/lf20_z7dwyelr.json")
 lottie_coding = load_lottieurl("https://assets5.lottiefiles.com/private_files/lf30_izn8gnzq.json")
 lottie_mario = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_niwtCZ.json")
-img_lottie_animation = Image.open("images/man.png")
+#img_lottie_animation = Image.open("images/man.png")
 img_lottie_ezelsbrug = Image.open("images/ezelsbrug.png")
 img_lottie_afbeelding = Image.open("images/fabriek.jpg")
-img_lottie_meter = Image.open("images/meter.jpg")
+#img_lottie_meter = Image.open("images/meter.jpg")
 img_lottie_zaag = Image.open("images/zaag.jpg")
 img_lottie_opmeten = Image.open("images/opmeten.jpg")
 
